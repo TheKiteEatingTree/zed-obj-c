@@ -1,0 +1,16 @@
+{
+    "modes": {
+        "Objective-C": {
+            "name": "Objective-C",
+            "highlighter": "ace/mode/objectivec",
+            "extensions": [
+                "m"
+            ],
+            "language": "Objective-C",
+            "events": {},
+            "commands": {},
+            "keys": {},
+            "preferences": {}
+        }
+    }
+}
